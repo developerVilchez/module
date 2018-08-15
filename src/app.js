@@ -1,2 +1,3 @@
 const sum = require('library-beta');
-console.log(sum(3,5));
+sum(2,4)
+  .then(response => console.log(response))
