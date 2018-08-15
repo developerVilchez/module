@@ -1,6 +1,6 @@
 # Number Formatter
 
-A small library that adds commas to numbers
+A small library that sum.
 
 ## Installation
 
@@ -8,11 +8,11 @@ A small library that adds commas to numbers
 
 ## Usage
 
-    const sum = require('@Danielalab/number-formatter');
+    const sum = require('@Danielalab/sum');
 
-    var formattedNum = numFormatter(35666);
+    const result = sum(2, 3);
   
-  Output should be `35,666`
+  Output should be `5`
 
 ## Tests
 
