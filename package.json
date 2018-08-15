@@ -2,7 +2,7 @@
   "name": "library-beta",
   "version": "0.1.0",
   "description": "",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "mocha --reporter spec"
   },
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/Danielalab/module.git"
   },
-  "author": "",
+  "author": "Daniela",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Danielalab/module/issues"
