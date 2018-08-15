@@ -1,4 +1,4 @@
-# Number Formatter
+# Sum
 
 A small library that sum.
 
